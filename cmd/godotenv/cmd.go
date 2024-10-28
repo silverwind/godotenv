@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/Envek/godotenv"
+	"github.com/silverwind/godotenv"
 )
 
 func main() {

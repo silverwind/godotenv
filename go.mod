@@ -1,3 +1,3 @@
-module github.com/Envek/godotenv
+module github.com/silverwind/godotenv
 
 go 1.12
